@@ -1,0 +1,26 @@
+[
+  {
+    "name": "I-95 NB @ Exit 12 (placeholder)",
+    "lat": 38.95,
+    "lng": -77.15,
+    "feedUrl": "https://example.com/dot-cameras/i95-exit12.jpg"
+  },
+  {
+    "name": "Harbor Bridge North (placeholder)",
+    "lat": 40.71,
+    "lng": -74.01,
+    "feedUrl": "https://example.com/dot-cameras/harbor-bridge-n.jpg"
+  },
+  {
+    "name": "Downtown Interchange Cam 4 (placeholder)",
+    "lat": 34.05,
+    "lng": -118.25,
+    "feedUrl": "https://example.com/dot-cameras/downtown-cam4.jpg"
+  },
+  {
+    "name": "Riverside Ave / 5th St (placeholder)",
+    "lat": 41.88,
+    "lng": -87.63,
+    "feedUrl": "https://example.com/dot-cameras/riverside-5th.jpg"
+  }
+]

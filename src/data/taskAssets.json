@@ -1,0 +1,13 @@
+{
+  "location": "37.7N 122.4W — NOTIONAL AOI 14",
+  "windowStart": "2026-06-18T06:00:00Z",
+  "windowEnd": "2026-06-18T18:00:00Z",
+  "statusMessage": "Analyzing weather & satellite patterns for an available imaging window...",
+  "availableSatellites": [
+    { "id": "sat-001", "name": "Gecko", "hoursToRange": 2, "available": true },
+    { "id": "sat-002", "name": "Parakeet", "hoursToRange": 4, "available": true },
+    { "id": "sat-003", "name": "Falconeye", "hoursToRange": 5, "available": true },
+    { "id": "sat-005", "name": "Kestrel", "hoursToRange": 7, "available": false },
+    { "id": "sat-008", "name": "Talon", "hoursToRange": 9, "available": true }
+  ]
+}
