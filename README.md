@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Gotham Sim
 
 A tactical command/intelligence dashboard styled after Palantir Gotham, with
@@ -211,4 +211,3 @@ server/
 =======
 # GothamSIM
 Simulated Gotham software (Palantir).
->>>>>>> 69f157ffc8c54308943b4ba5b89167022d58c1d6
